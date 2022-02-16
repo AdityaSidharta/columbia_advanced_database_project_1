@@ -1,5 +1,4 @@
 from googleapiclient.discovery import build
-import pprint
 
 
 def query(client_key, engine_key, query):

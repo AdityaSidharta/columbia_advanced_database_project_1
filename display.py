@@ -16,9 +16,9 @@ def check_relevance(items):
     assert len(items)
     for idx in range(len(items)):
         item = items[idx]
-        title = item['title']
-        url = item['link']
-        summary = item['snippet']
+        title = item["title"]
+        url = item["link"]
+        summary = item["snippet"]
         print("Result {}".format(idx + 1))
         print("[")
         print("URL: {}".format(url))
@@ -26,12 +26,12 @@ def check_relevance(items):
         print("Summary: {}".format(summary))
         print("]")
 
-        user_input = ''
-        while user_input.lower() != 'y' and user_input.lower() != 'n':
+        user_input = ""
+        while user_input.lower() != "y" and user_input.lower() != "n":
             user_input = input("Relevant (Y/N)?")
-            if user_input.lower() == 'y':
+            if user_input.lower() == "y":
                 relevant_items.append(item)
-            elif user_input.lower() == 'n':
+            elif user_input.lower() == "n":
                 nonrelevant_items.append(item)
             else:
                 print('Please try again. Only accepting input "y" or "n"')

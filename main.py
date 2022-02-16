@@ -1,9 +1,10 @@
 import fire
-import search
+
 import display
-import validity
 import metrics
 import model
+import search
+import validity
 
 
 def main(client_key, engine_key, precision, query):
@@ -30,6 +31,5 @@ def main(client_key, engine_key, precision, query):
             break
 
 
-
-if __name__ == '__main__':
+if __name__ == "__main__":
     fire.Fire(main)

@@ -182,7 +182,7 @@ if __name__ == '__main__':
     preci = precision(rel)
     print("Precision: ", preci)
     for i in range(10):
-        if(preci >= p):
+        if(preci >= p) or (preci == 0):
             break
         else:
             data_title, data_body, original = tokenization(rel)

@@ -66,6 +66,12 @@ python -m main AIzaSyDhhK6kuFjOnRw4LDTfpwYaH5teRS48xLA ad8d80c3f1b726f69 0.9 "ca
 python -m main AIzaSyDhhK6kuFjOnRw4LDTfpwYaH5teRS48xLA ad8d80c3f1b726f69 0.9 "brin"
 ```
 
+```
+python -m venv cs6111_proj1
+source cs6111_proj1/bin/activate
+pip install -r cs6111_proj1/requirements.txt
+python -m main [google api key] [google engine id] [precision] "[query]"
+```
 
 ## Description of the project
 
@@ -83,5 +89,10 @@ python -m main AIzaSyDhhK6kuFjOnRw4LDTfpwYaH5teRS48xLA ad8d80c3f1b726f69 0.9 "br
 ### Ordering New Keywords
 
 ## Search Engine JSON API Key and Engine ID
+
+```
+API Key: AIzaSyDhhK6kuFjOnRw4LDTfpwYaH5teRS48xLA
+Engine ID: ad8d80c3f1b726f69
+```
 
 ## Query Transcript of Test Cases

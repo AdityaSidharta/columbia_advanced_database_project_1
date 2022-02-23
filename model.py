@@ -23,7 +23,7 @@ def get_query(new_query_vector, word2idx, idx2word, query_words, top_k=params.TO
     proposed_words = [idx2word[idx] for idx in proposed_indices]
     proposed_score = [new_query_vector[idx] for idx in proposed_indices]
     sorted_words = [proposed_words for _, proposed_words in sorted(zip(proposed_score, proposed_words), reverse=True)]
-    return ' '.join(query_words + sorted_words)
+    return " ".join(query_words + sorted_words)
 
 
 def get_query_dict(new_query_vector, word2idx):
@@ -36,7 +36,7 @@ def get_query_dict(new_query_vector, word2idx):
 def improve(relevant_items, nonrelevant_items, query, prev_query_dict):
     unique_words = set()
 
-    query_words, query_unique_words = query.lower().split(' '), set(query.lower().split(' '))
+    query_words, query_unique_words = query.lower().split(" "), set(query.lower().split(" "))
     relevant_tokens_words, relevant_unique_words = process(relevant_items, query_unique_words)
     nonrelevant_tokens_words, nonrelevant_unique_words = process(nonrelevant_items, query_unique_words)
 
@@ -67,7 +67,7 @@ def get_tf(relevant_tokens_words, nonrelevant_tokens_words, word2idx):
         for token_idx in range(n_tokens):
             tf_dict[word_idx][token_idx] = 0
     for token_idx, token in enumerate(tokens):
-        n_words = 0.
+        n_words = 0.0
         for word in token:
             word_idx = get_index(word, word2idx)
             if word_idx is not None:
@@ -119,7 +119,7 @@ def get_query_vector(query_words, word2idx, prev_query_dict):
         for word in query_words:
             word_idx = get_index(word, word2idx)
             if word_idx is not None:
-                result[word_idx] = 1.
+                result[word_idx] = 1.0
     else:
         for word, value in prev_query_dict.items():
             word_idx = get_index(word, word2idx)

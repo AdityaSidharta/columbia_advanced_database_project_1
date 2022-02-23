@@ -9,27 +9,7 @@ from process import preprocess, stem
 
 
 
-def tfidf(rel, DF, data_title, data_body):
-    from collections import Counter
-    tf_idf = {}
-    doc=0
-    l=[]
-    N = len(rel) #Number of relevant docs
-    for i in range(len(rel)):
-        tokens = data_body[i] + data_title[i]
-        counter = Counter(tokens + data_title[i]) 
-        #print(counter)#number of times each word occured in that doc
-        words_count = len(tokens + data_title[i])   #total number of words in that doc
-        for token in tokens:
-            if(token not in tf_idf):
-                tf = counter[token]/words_count  #tf of each word = number of times it occured / total number of words
-                idf = np.log(N/DF[token])
-                tf_idf[token] = tf*idf
-    tf_idf_sort={}
-    sorted_keys = sorted(tf_idf, key=tf_idf.get)
-    for x in sorted_keys:
-        tf_idf_sort[x] = tf_idf[x]
-    return tf_idf_sort
+
 
 
 def get_key(val, original):

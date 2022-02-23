@@ -7,8 +7,8 @@ UNI: aks2266
 ```
 
 ```
-Name: Rishav
-UNI:
+Name: Rishav Agarwal
+UNI: ra3141
 ```
 
 ## List of Files

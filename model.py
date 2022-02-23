@@ -16,13 +16,14 @@ def rocchio(query_vector, relevant_vectors, nonrelevant_vectors):
     )
 
 
-def get_query(new_query_vector, word2idx, idx2word, query_words, top_k=2):
-    additional_indices = new_query_vector.argsort()[-top_k:][::-1]
-    proposed_words = sorted(list(set([idx2word[idx] for idx in additional_indices] + query_words)))
-    proposed_indices = [word2idx[word] for word in proposed_words]
+def get_query(new_query_vector, word2idx, idx2word, query_words, top_k=params.TOP_K):
+    sorted_indices = list(new_query_vector.argsort()[::-1])
+    query_indices = [word2idx[word] for word in query_words]
+    proposed_indices = [x for x in sorted_indices if x not in query_indices][:top_k]
+    proposed_words = [idx2word[idx] for idx in proposed_indices]
     proposed_score = [new_query_vector[idx] for idx in proposed_indices]
-    sorted_words = [proposed_words for _, proposed_words in sorted(zip(proposed_score, proposed_words))]
-    return ' '.join(sorted_words)
+    sorted_words = [proposed_words for _, proposed_words in sorted(zip(proposed_score, proposed_words), reverse=True)]
+    return ' '.join(query_words + sorted_words)
 
 
 def get_query_dict(new_query_vector, word2idx):
@@ -35,9 +36,9 @@ def get_query_dict(new_query_vector, word2idx):
 def improve(relevant_items, nonrelevant_items, query, prev_query_dict):
     unique_words = set()
 
-    query_words, query_unique_words = query.split(' '), set(query.split(' '))
-    relevant_tokens_words, relevant_unique_words = process(relevant_items)
-    nonrelevant_tokens_words, nonrelevant_unique_words = process(nonrelevant_items)
+    query_words, query_unique_words = query.lower().split(' '), set(query.lower().split(' '))
+    relevant_tokens_words, relevant_unique_words = process(relevant_items, query_unique_words)
+    nonrelevant_tokens_words, nonrelevant_unique_words = process(nonrelevant_items, query_unique_words)
 
     unique_words.update(query_unique_words)
     unique_words.update(relevant_unique_words)
@@ -46,7 +47,7 @@ def improve(relevant_items, nonrelevant_items, query, prev_query_dict):
     word2idx, idx2word = get_word_index(unique_words)
 
     query_vector = get_query_vector(query_words, word2idx, prev_query_dict)
-    relevant_vectors, nonrelevant_vectors = get_tfidf(relevant_items, nonrelevant_items, word2idx)
+    relevant_vectors, nonrelevant_vectors = get_tfidf(relevant_tokens_words, nonrelevant_tokens_words, word2idx)
     new_query_vector = rocchio(query_vector, relevant_vectors, nonrelevant_vectors)
 
     new_query = get_query(new_query_vector, word2idx, idx2word, query_words)

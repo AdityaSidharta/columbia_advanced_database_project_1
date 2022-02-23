@@ -1,0 +1,175 @@
+`python -m main AIzaSyDhhK6kuFjOnRw4LDTfpwYaH5teRS48xLA ad8d80c3f1b726f69 0.9 "per se" | tee "per_se.txt"`
+
+Parameters:
+Client key  = AIzaSyDhhK6kuFjOnRw4LDTfpwYaH5teRS48xLA
+Engine key  = ad8d80c3f1b726f69
+Query       = per se
+Precision   = 0.9
+Google Search Results:
+======================
+
+Result 1
+[
+URL: https://www.thomaskeller.com/perseny
+Title: Per Se | Thomas Keller Restaurant Group
+Summary: Per Se. Per Se Front Door. center. About. About; Restaurant · Team · Info & Directions · Gift Experiences · Reservations; Menus & Stories. Menus & Stories
+]
+Relevant (Y/N)?
+Result 2
+[
+URL: https://www.merriam-webster.com/dictionary/perse
+Title: Perse Definition & Meaning - Merriam-Webster
+Summary: We generally use per se to distinguish between something in its narrow sense and some larger thing that it represents. Thus, you may have no objection to ...
+]
+Relevant (Y/N)?
+Result 3
+[
+URL: https://en.wiktionary.org/wiki/per_se
+Title: per se - Wiktionary
+Summary: In and of itself; by itself; without determination by or involvement of extraneous factors; as such quotations ▽ · (chiefly in negative polarity environments) ...
+]
+Relevant (Y/N)?
+Result 4
+[
+URL: https://en.wikipedia.org/wiki/Per_se
+Title: Per se - Wikipedia
+Summary: per se, a Latin phrase meaning "by itself" or "in itself". Illegal per se, the legal usage in criminal and antitrust law; Negligence per se, legal use in tort ...
+]
+Relevant (Y/N)?
+Result 5
+[
+URL: https://www.exploretock.com/perse
+Title: Per Se - New York, NY | Tock
+Summary: Opened in 2004, Per Se is Thomas Keller's acclaimed interpretation of The French Laundry in the Deutsche Bank Center at Columbus Circle.
+]
+Relevant (Y/N)?
+Result 6
+[
+URL: https://www.instagram.com/perseny/?hl=en
+Title: Per Se (@perseny) • Instagram photos and videos
+Summary: Per Se. Chef Thomas Keller's 3-Star Michelin restaurant overlooking Columbus Circle & Central Park located in New York City. exploretock.com/perse.
+]
+Relevant (Y/N)?
+Result 7
+[
+URL: https://www.yelp.com/biz/per-se-new-york
+Title: PER SE - 6798 Photos & 1719 Reviews - French - 10 Columbus Cir ...
+Summary: 1719 reviews of Per Se "This is Thomas Keller's new resturant in New York. A must if you can get a reservation."
+]
+Relevant (Y/N)?
+Result 8
+[
+URL: https://www.law.cornell.edu/wex/per_se
+Title: per se | Wex | US Law | LII / Legal Information Institute
+Summary: For example, in tort law, a statutory violation is negligence per se. One of the elements a person has to prove in a negligence claim is that the defendant ...
+]
+Relevant (Y/N)?
+Result 9
+[
+URL: https://www.vocabulary.com/dictionary/per%20se
+Title: Per se - Definition, Meaning & Synonyms | Vocabulary.com
+Summary: Per se is the phrase to use when you want to refer to a particular thing on its own. It is not this Latin phrase, per se, that is important, but rather the ...
+]
+Relevant (Y/N)?
+Result 10
+[
+URL: https://www.nytimes.com/2016/01/13/dining/pete-wells-per-se-review.html
+Title: At Thomas Keller's Per Se, Slips and Stumbles - The New York Times
+Summary: Jan 12, 2016 ... Such is Per Se's mystique that I briefly wondered if the failure to bring her a new napkin could have been intentional.
+]
+Relevant (Y/N)?
+Current precision is still below the target precision
+Initial Query : per se
+Current Query : per se
+Current Precision@10 : 0.5
+Target Precision@10 : 0.9
+Currently running the model to improve the query...
+
+The query has been updated
+Previous Query : per se
+New Query : per se new restaurant
+
+Parameters:
+Client key  = AIzaSyDhhK6kuFjOnRw4LDTfpwYaH5teRS48xLA
+Engine key  = ad8d80c3f1b726f69
+Query       = per se new restaurant
+Precision   = 0.9
+Google Search Results:
+======================
+
+Result 1
+[
+URL: https://www.thomaskeller.com/perseny
+Title: Per Se | Thomas Keller Restaurant Group
+Summary: Restaurants & Bakeries. Yountville; The French Laundry · Bouchon Bistro · Bouchon Bakery · Ad Hoc + Addendum · La Calenda; New York; Per Se; Las Vegas
+]
+Relevant (Y/N)?
+Result 2
+[
+URL: https://en.wikipedia.org/wiki/Per_Se_(restaurant)
+Title: Per Se (restaurant) - Wikipedia
+Summary: Per Se is a New American and French restaurant located on the fourth floor of the Time Warner Center at 10 Columbus Circle in Manhattan in New York City, ...
+]
+Relevant (Y/N)?
+Result 3
+[
+URL: https://www.thomaskeller.com/new-york-new-york/per-se/restaurant
+Title: Per Se entrance sign
+Summary: Restaurant Opened in 2004, Per Se is Thomas Keller's acclaimed New York interpretation of The French Laundry in the Deutsche Bank Center at Columbus Circle.
+]
+Relevant (Y/N)?
+Result 4
+[
+URL: https://www.exploretock.com/perse
+Title: Per Se - New York, NY | Tock
+Summary: Designed by Adam D. Tihany, Per Se features a serene environment with spectacular views of Central Park and Columbus Circle. The restaurant is Chef Keller's ...
+]
+Relevant (Y/N)?
+Result 5
+[
+URL: https://www.thomaskeller.com/new-york-new-york/per-se/todays-menus
+Title: Today's Menus | Thomas Keller Restaurant Group
+Summary: ... tasting menu, as well as a nine-course vegetable tasting menu. No single ingredient is ever repeated throughout the meal. New menu page coming soon.
+]
+Relevant (Y/N)?
+Result 6
+[
+URL: https://ny.eater.com/2021/7/21/22583671/per-se-masa-raise-tasting-menu-prices-800
+Title: Per Se and Masa Both Raise Prices of Tasting Menu to $800 - Eater ...
+Summary: Jul 21, 2021 ... New tasting menu options at NYC restaurants Masa and Per Se could easily push the price of dinner for two past $2000.
+]
+Relevant (Y/N)?
+Result 7
+[
+URL: https://www.facebook.com/perse/
+Title: Per Se - Home - New City, New York - Menu, prices, restaurant ...
+Summary: The official page of Thomas Keller's Per Se 10 Columbus Cir, Fl 4th, New City, NY 10019.
+]
+Relevant (Y/N)?
+Result 8
+[
+URL: https://guide.michelin.com/en/new-york-state/new-york/restaurant/per-se
+Title: Per Se – New York - a MICHELIN Guide Restaurant
+Summary: Per Se · 10 Columbus Circle, New York, 10019, United States · 355 USD • Contemporary, French ...
+]
+Relevant (Y/N)?
+Result 9
+[
+URL: https://www.nytimes.com/2016/01/13/dining/pete-wells-per-se-review.html
+Title: At Thomas Keller's Per Se, Slips and Stumbles - The New York Times
+Summary: Jan 12, 2016 ... Dinner or lunch at this grand, hermetic, self-regarding, ungenerous restaurant brings a protracted march of many dishes. In 2004, the year Per ...
+]
+Relevant (Y/N)?
+Result 10
+[
+URL: https://www.bostonglobe.com/2022/01/20/lifestyle/eleven-madison-park-per-se-alums-will-open-twelve-portland-over-memorial-day-weekend/
+Title: Eleven Madison Park and Per Se alums will open Twelve in ...
+Summary: Jan 20, 2022 ... Former EMP executive sous chef Colin Wyatt and Per Se general manager Daniel Gorlas will open the New American restaurant, with about 100 seats ...
+]
+Relevant (Y/N)?
+The target precision has been achieved. The algorithm has been terminated [SUCCESS].
+Initial Query : per se
+Final Query : per se new restaurant
+Current Precision@10 : 0.9
+Target Precision@10 : 0.9
+

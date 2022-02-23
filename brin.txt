@@ -1,0 +1,175 @@
+`python -m main AIzaSyDhhK6kuFjOnRw4LDTfpwYaH5teRS48xLA ad8d80c3f1b726f69 0.9 "brin" | tee "brin.txt"`
+
+Parameters:
+Client key  = AIzaSyDhhK6kuFjOnRw4LDTfpwYaH5teRS48xLA
+Engine key  = ad8d80c3f1b726f69
+Query       = brin
+Precision   = 0.9
+Google Search Results:
+======================
+
+Result 1
+[
+URL: https://www.davidbrin.com/
+Title: worlds of David Brin
+Summary: David Brin is best-known for shining light — plausibly and entertainingly — on technology, society, and countless challenges confronting our rambunctious ...
+]
+Relevant (Y/N)?
+Result 2
+[
+URL: https://en.wikipedia.org/wiki/Sergey_Brin
+Title: Sergey Brin - Wikipedia
+Summary: Sergey Mikhailovich Brin is an American business magnate, computer scientist, and Internet entrepreneur. Together with Larry Page, he co-founded Google.
+]
+Relevant (Y/N)?
+Result 3
+[
+URL: https://brinandbrin.com/
+Title: Brin & Brin LLC – Law Firm
+Summary: The litigation, transactional and compliance lawyers at Brin & Brin have proven success in some of the toughest Texas venues. ... We have represented clients in a ...
+]
+Relevant (Y/N)?
+Result 4
+[
+URL: https://www.forbes.com/profile/sergey-brin/
+Title: Sergey Brin
+Summary: 6 Sergey Brin on the 2021 Forbes 400 - Sergey Brin stepped down as president of Alphabet, parent company of Google, in December 2019 but remains a ...
+]
+Relevant (Y/N)?
+Result 5
+[
+URL: https://www.postgresql.org/docs/13/brin-intro.html
+Title: Documentation: 13: 67.1. Introduction - PostgreSQL
+Summary: BRIN stands for Block Range Index. BRIN is designed for handling very large tables in which certain columns have some natural correlation with their ...
+]
+Relevant (Y/N)?
+Result 6
+[
+URL: https://en.wiktionary.org/wiki/brin
+Title: brin - Wiktionary
+Summary: NounEdit · One of the radiating sticks of a fan. The outermost are larger and longer, and are called panaches. · A single silkworm thread extruded from the gland, ...
+]
+Relevant (Y/N)?
+Result 7
+[
+URL: https://www.bringlass.com/
+Title: Brin Glass: Commercial Glass Company
+Summary: Brin Glass provides commercial glass services including wholesale distribution and fabrication of glass and architectural aluminum products, glass service ...
+]
+Relevant (Y/N)?
+Result 8
+[
+URL: https://www.postgresql.org/docs/13/brin.html
+Title: Documentation: 13: Chapter 67. BRIN Indexes - PostgreSQL
+Summary: BRIN Indexes. Prev · Up, Part VII. Internals, Home · Next. Chapter 67. BRIN Indexes. Table of Contents. 67.1. Introduction · 67.1.1. Index Maintenance.
+]
+Relevant (Y/N)?
+Result 9
+[
+URL: https://www.brinlevinson.com/
+Title: Brin Levinson
+Summary: The Art of Brin Levinson.
+]
+Relevant (Y/N)?
+Result 10
+[
+URL: https://www2.math.binghamton.edu/p/people/matt/start
+Title: Matthew G. Brin [Binghamton University Department of Mathematical ...
+Summary: Matthew G. Brin. Professor Emeritus Ph.D., 1977, University of Wisconsin-Madison At Binghamton since 1978. Areas of Interest: Geometric topology, ...
+]
+Relevant (Y/N)?
+Current precision is still below the target precision
+Initial Query : brin
+Current Query : brin
+Current Precision@10 : 0.2
+Target Precision@10 : 0.9
+Currently running the model to improve the query...
+
+The query has been updated
+Previous Query : brin
+New Query : brin sergey google
+
+Parameters:
+Client key  = AIzaSyDhhK6kuFjOnRw4LDTfpwYaH5teRS48xLA
+Engine key  = ad8d80c3f1b726f69
+Query       = brin sergey google
+Precision   = 0.9
+Google Search Results:
+======================
+
+Result 1
+[
+URL: https://en.wikipedia.org/wiki/Sergey_Brin
+Title: Sergey Brin - Wikipedia
+Summary: Sergey Mikhailovich Brin is an American business magnate, computer scientist, and Internet entrepreneur. Together with Larry Page, he co-founded Google.
+]
+Relevant (Y/N)?
+Result 2
+[
+URL: https://www.theverge.com/2019/12/4/20994361/google-alphabet-larry-page-sergey-brin-sundar-pichai-co-founders-ceo-timeline
+Title: Google co-founders Larry Page and Sergey Brin: a timeline of their ...
+Summary: Dec 4, 2019 ... Larry Page and Sergey Brin founded Google in 1996 on the back of an algorithm, turned it into one of the most valuable companies in the ...
+]
+Relevant (Y/N)?
+Result 3
+[
+URL: https://www.forbes.com/profile/sergey-brin/
+Title: Sergey Brin
+Summary: REAL TIME NET WORTH · Sergey Brin stepped down as president of Alphabet, parent company of Google, in December 2019 but remains a controller shareholder and a ...
+]
+Relevant (Y/N)?
+Result 4
+[
+URL: https://www.biography.com/business-figure/sergey-brin
+Title: Sergey Brin - Education, Google & Wife - Biography
+Summary: Aug 11, 2015 ... Sergey Brin is a computer scientist who created Google with Larry Page, the two becoming billionaires as Google developed into the world's ...
+]
+Relevant (Y/N)?
+Result 5
+[
+URL: https://www.britannica.com/biography/Sergey-Brin
+Title: Sergey Brin | Biography, Google, & Facts | Britannica
+Summary: Sergey Brin, American computer scientist and entrepreneur who created, along with Larry Page, the online search engine Google, one of the most successful ...
+]
+Relevant (Y/N)?
+Result 6
+[
+URL: https://www.theguardian.com/science/2013/aug/05/google-sergey-brin-synthetic-beef-hamburger
+Title: Google's Sergey Brin bankrolled world's first synthetic beef ...
+Summary: Aug 5, 2013 ... The billionaire co-founder of Google, Sergey Brin, said he invested €250000 in the technology for animal welfare reasons.
+]
+Relevant (Y/N)?
+Result 7
+[
+URL: https://www.vanityfair.com/style/2014/04/sergey-brin-amanda-rosenberg-affair
+Title: Sergey Brin and Amanda Rosenberg: Inside the Google Co ...
+Summary: Mar 12, 2014 ... The story behind Google co-founder Sergey Brin's liaison with Google Glass marketing manager Amanda Rosenberg—and his split from his wife, ...
+]
+Relevant (Y/N)?
+Result 8
+[
+URL: https://www.nbcnews.com/technolog/googles-sergey-brin-explains-why-he-paid-330-000-lab-6c10853442
+Title: Google's Sergey Brin explains why he paid $330,000 for lab burger
+Summary: Aug 5, 2013 ... Google's Sergey Brin explains why he paid $330,000 for lab burger. When scientists brought out a hamburger created in a laboratory for its ...
+]
+Relevant (Y/N)?
+Result 9
+[
+URL: https://www.businessinsider.com/sergey-brin-google-alphabet-life-photos-2016-12
+Title: Sergey Brin: Life of Google Cofounder, Former Alphabet President
+Summary: Dec 3, 2019 ... Google cofounder Sergey Brin is stepping down as Alphabet's president. Take a look inside his eccentric and wildly successful life.
+]
+Relevant (Y/N)?
+Result 10
+[
+URL: https://www.wired.com/story/google-cofounder-sergey-brin-warns-of-ais-dark-side/
+Title: Google Cofounder Sergey Brin Warns of AI's Dark Side | WIRED
+Summary: Apr 27, 2018 ... Google Cofounder Sergey Brin Warns of AI's Dark Side ... Google cofounder calls advances in artificial intelligence "the most significant ...
+]
+Relevant (Y/N)?
+The target precision has been achieved. The algorithm has been terminated [SUCCESS].
+Initial Query : brin
+Final Query : brin sergey google
+Current Precision@10 : 1.0
+Target Precision@10 : 0.9
+

@@ -1,0 +1,175 @@
+`python -m main AIzaSyDhhK6kuFjOnRw4LDTfpwYaH5teRS48xLA ad8d80c3f1b726f69 0.9 "cases" | tee "cases.txt"`
+
+Parameters:
+Client key  = AIzaSyDhhK6kuFjOnRw4LDTfpwYaH5teRS48xLA
+Engine key  = ad8d80c3f1b726f69
+Query       = cases
+Precision   = 0.9
+Google Search Results:
+======================
+
+Result 1
+[
+URL: https://www.cases.org/
+Title: CASES: Home
+Summary: From court and program offices in the Bronx, Brooklyn, and Manhattan, CASES provides community-based alternatives to jail and prison. These programs address ...
+]
+Relevant (Y/N)?
+Result 2
+[
+URL: https://covid.cdc.gov/covid-data-tracker/
+Title: CDC COVID Data Tracker
+Summary: Your Community · County View · County View Map Thumbnail ; Case, Death, & Laboratory Testing Trends by Location and Demographics · Trends in Cases and Deaths by ...
+]
+Relevant (Y/N)?
+Result 3
+[
+URL: https://www.worldometers.info/coronavirus/
+Title: COVID Live - Coronavirus Statistics - Worldometer
+Summary: Live statistics and coronavirus news tracking the number of confirmed cases, recovered patients, tests, and death toll due to the COVID-19 coronavirus from ...
+]
+Relevant (Y/N)?
+Result 4
+[
+URL: https://www.dhs.wisconsin.gov/covid-19/cases.htm
+Title: COVID-19: Wisconsin Cases | Wisconsin Department of Health ...
+Summary: Back to a list of charts on this page. Percent of COVID-19 cases living in group housing ...
+]
+Relevant (Y/N)?
+Result 5
+[
+URL: https://www.nytimes.com/interactive/2021/us/covid-cases.html
+Title: Covid in the U.S.: Latest Maps, Case and Death Counts - The New ...
+Summary: Track Covid-19 in your area, and get the latest state and county data on cases, deaths, hospitalizations, tests and vaccinations.
+]
+Relevant (Y/N)?
+Result 6
+[
+URL: https://www.verizon.com/products/phone-cases/
+Title: Phone Cases for your iPhone, Samsung, and more | Verizon
+Summary: Shop Verizon for an extensive selection of phone cases. Protect your phone from accidents. Featuring products from OtterBox, Case-Mate, Kate Spade & more.
+]
+Relevant (Y/N)?
+Result 7
+[
+URL: https://www.icj-cij.org/en/cases
+Title: Cases | International Court of Justice
+Summary: Cases. The Court has a twofold role: to settle, in accordance with international law, legal disputes submitted to it by States (contentious cases) and to ...
+]
+Relevant (Y/N)?
+Result 8
+[
+URL: https://www.vdh.virginia.gov/coronavirus/see-the-numbers/covid-19-in-virginia/covid-19-in-virginia-cases/
+Title: Cases - Coronavirus
+Summary: Starting on February 1, 2022, VDH is using 2020 National Center for Health Statistics (NCHS) population estimates for COVID-19 events (cases, ...
+]
+Relevant (Y/N)?
+Result 9
+[
+URL: https://ourworldindata.org/covid-cases
+Title: Coronavirus (COVID-19) Cases - Our World in Data
+Summary: Country-by-country data on confirmed cases. This page has a large number of charts on the pandemic. In the box below you can select any country you are ...
+]
+Relevant (Y/N)?
+Result 10
+[
+URL: https://www.oyez.org/cases
+Title: 2021-2022 Term | Oyez
+Summary: US Supreme Court cases from the 2021-2022 term. ... A case in which the Court will decide whether federal courts have subject-matter jurisdiction to confirm ...
+]
+Relevant (Y/N)?
+Current precision is still below the target precision
+Initial Query : cases
+Current Query : cases
+Current Precision@10 : 0.6
+Target Precision@10 : 0.9
+Currently running the model to improve the query...
+
+The query has been updated
+Previous Query : cases
+New Query : cases wisconsin coronavirus
+
+Parameters:
+Client key  = AIzaSyDhhK6kuFjOnRw4LDTfpwYaH5teRS48xLA
+Engine key  = ad8d80c3f1b726f69
+Query       = cases wisconsin coronavirus
+Precision   = 0.9
+Google Search Results:
+======================
+
+Result 1
+[
+URL: https://www.dhs.wisconsin.gov/covid-19/cases.htm
+Title: COVID-19: Wisconsin Cases | Wisconsin Department of Health ...
+Summary: Call 211 or 877-947-2211 to get referrals for thousands of services across Wisconsin. For COVID-19 questions, text COVID to 211-211. Language assistance is ...
+]
+Relevant (Y/N)?
+Result 2
+[
+URL: https://www.nytimes.com/interactive/2021/us/wisconsin-covid-cases.html
+Title: Wisconsin Coronavirus Map and Case Count - The New York Times
+Summary: See the latest charts and maps of coronavirus cases, deaths, hospitalizations and vaccinations in Wisconsin.
+]
+Relevant (Y/N)?
+Result 3
+[
+URL: https://www.dhs.wisconsin.gov/covid-19/data.htm
+Title: COVID-19: Wisconsin Summary Data | Wisconsin Department of ...
+Summary: Jump to specific COVID-19 chart on this page: Wisconsin summary statistics; 7-day percent positive by test, total tests by day; Cases and deaths maps by ...
+]
+Relevant (Y/N)?
+Result 4
+[
+URL: https://www.mayoclinic.org/coronavirus-covid-19/map/wisconsin
+Title: Wisconsin COVID-19 Map: Tracking the Trends
+Summary: Results 40 - 60 of 60 ... Check our interactive coronavirus map for the latest Wisconsin ... Mayo Clinic is tracking COVID-19 cases and forecasting hot spots.
+]
+Relevant (Y/N)?
+Result 5
+[
+URL: https://www.dhs.wisconsin.gov/covid-19/county.htm
+Title: COVID-19: County Data | Wisconsin Department of Health Services
+Summary: COVID-19: Data Pages Activity Level by Region and County Cases Deaths Facility-Wide Investigations Frequently Asked Questions Hospitals.
+]
+Relevant (Y/N)?
+Result 6
+[
+URL: https://www.worldometers.info/coronavirus/usa/wisconsin/
+Title: Wisconsin COVID - Coronavirus Statistics - Worldometer
+Summary: Wisconsin COVID-19 Coronavirus update by county with statistics and graphs: total and new cases, deaths per day, current active cases, recoveries, ...
+]
+Relevant (Y/N)?
+Result 7
+[
+URL: https://www.dhs.wisconsin.gov/outbreaks/index.htm
+Title: Outbreaks in Wisconsin | Wisconsin Department of Health Services
+Summary: Outbreaks and Investigations · As of January 11, 2022, the Centers for Disease Control and Prevention (CDC) reports 44 people in 25 states have been infected.
+]
+Relevant (Y/N)?
+Result 8
+[
+URL: https://projects.jsonline.com/topics/coronavirus/tracking/covid-19-cases-testing-and-deaths-in-wisconsin.html
+Title: Wisconsin COVID-19 cases, vaccine data: Latest coronavirus number
+Summary: The Wisconsin Department of Health Services confirmed 443 new confirmed cases of COVID-19 and 0 new confirmed deaths on February 19. That brings the state's ...
+]
+Relevant (Y/N)?
+Result 9
+[
+URL: https://usafacts.org/visualizations/coronavirus-covid-19-spread-map/state/wisconsin
+Title: Wisconsin coronavirus cases and deaths | USAFacts
+Summary: Get the answers here, with data on hotspots and infection rates. This map tracks the history of coronavirus cases in Wisconsin, both recent and all-time.
+]
+Relevant (Y/N)?
+Result 10
+[
+URL: https://www.co.sauk.wi.us/publichealth/coronavirus
+Title: Coronavirus | Sauk County Wisconsin Official Website
+Summary: 12/4/21: Press Release from WI DHS: First Case of the Omicron Variant Identified in Wisconsin. 11/19/21: Sauk County COVID-19 Cases and Hospitalizations ...
+]
+Relevant (Y/N)?
+The target precision has been achieved. The algorithm has been terminated [SUCCESS].
+Initial Query : cases
+Final Query : cases wisconsin coronavirus
+Current Precision@10 : 1.0
+Target Precision@10 : 0.9
+

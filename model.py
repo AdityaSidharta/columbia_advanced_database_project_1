@@ -49,7 +49,7 @@ def improve(relevant_items, nonrelevant_items, query, prev_query_dict):
     relevant_vectors, nonrelevant_vectors = get_tfidf(relevant_items, nonrelevant_items, word2idx)
     new_query_vector = rocchio(query_vector, relevant_vectors, nonrelevant_vectors)
 
-    new_query = get_query(new_query_vector, idx2word, query_words)
+    new_query = get_query(new_query_vector, word2idx, idx2word, query_words)
     new_query_dict = get_query_dict(new_query_vector, word2idx)
 
     return new_query, new_query_dict

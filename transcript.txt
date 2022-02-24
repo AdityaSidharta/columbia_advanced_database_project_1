@@ -1,0 +1,544 @@
+==============
+query [per se]
+==============
+
+`python -m main AIzaSyDhhK6kuFjOnRw4LDTfpwYaH5teRS48xLA ad8d80c3f1b726f69 0.9 "per se" | tee "per_se.txt"`
+
+Parameters:
+Client key  = AIzaSyDhhK6kuFjOnRw4LDTfpwYaH5teRS48xLA
+Engine key  = ad8d80c3f1b726f69
+Query       = per se
+Precision   = 0.9
+Google Search Results:
+======================
+
+Result 1
+[
+URL: https://www.thomaskeller.com/perseny
+Title: Per Se | Thomas Keller Restaurant Group
+Summary: Per Se. Per Se Front Door. center. About. About; Restaurant · Team · Info & Directions · Gift Experiences · Reservations; Menus & Stories. Menus & Stories
+]
+Relevant (Y/N)?Y
+Result 2
+[
+URL: https://www.merriam-webster.com/dictionary/perse
+Title: Perse Definition & Meaning - Merriam-Webster
+Summary: We generally use per se to distinguish between something in its narrow sense and some larger thing that it represents. Thus, you may have no objection to ...
+]
+Relevant (Y/N)?N
+Result 3
+[
+URL: https://en.wiktionary.org/wiki/per_se
+Title: per se - Wiktionary
+Summary: In and of itself; by itself; without determination by or involvement of extraneous factors; as such quotations ▽ · (chiefly in negative polarity environments) ...
+]
+Relevant (Y/N)?N
+Result 4
+[
+URL: https://en.wikipedia.org/wiki/Per_se
+Title: Per se - Wikipedia
+Summary: per se, a Latin phrase meaning "by itself" or "in itself". Illegal per se, the legal usage in criminal and antitrust law; Negligence per se, legal use in tort ...
+]
+Relevant (Y/N)?N
+Result 5
+[
+URL: https://www.exploretock.com/perse
+Title: Per Se - New York, NY | Tock
+Summary: Opened in 2004, Per Se is Thomas Keller's acclaimed interpretation of The French Laundry in the Deutsche Bank Center at Columbus Circle.
+]
+Relevant (Y/N)?Y
+Result 6
+[
+URL: https://www.instagram.com/perseny/?hl=en
+Title: Per Se (@perseny) • Instagram photos and videos
+Summary: Per Se. Chef Thomas Keller's 3-Star Michelin restaurant overlooking Columbus Circle & Central Park located in New York City. exploretock.com/perse.
+]
+Relevant (Y/N)?Y
+Result 7
+[
+URL: https://www.yelp.com/biz/per-se-new-york
+Title: PER SE - 6798 Photos & 1719 Reviews - French - 10 Columbus Cir ...
+Summary: 1719 reviews of Per Se "This is Thomas Keller's new resturant in New York. A must if you can get a reservation."
+]
+Relevant (Y/N)?Y
+Result 8
+[
+URL: https://www.law.cornell.edu/wex/per_se
+Title: per se | Wex | US Law | LII / Legal Information Institute
+Summary: For example, in tort law, a statutory violation is negligence per se. One of the elements a person has to prove in a negligence claim is that the defendant ...
+]
+Relevant (Y/N)?N
+Result 9
+[
+URL: https://www.vocabulary.com/dictionary/per%20se
+Title: Per se - Definition, Meaning & Synonyms | Vocabulary.com
+Summary: Per se is the phrase to use when you want to refer to a particular thing on its own. It is not this Latin phrase, per se, that is important, but rather the ...
+]
+Relevant (Y/N)?N
+Result 10
+[
+URL: https://www.nytimes.com/2016/01/13/dining/pete-wells-per-se-review.html
+Title: At Thomas Keller's Per Se, Slips and Stumbles - The New York Times
+Summary: Jan 12, 2016 ... Such is Per Se's mystique that I briefly wondered if the failure to bring her a new napkin could have been intentional.
+]
+Relevant (Y/N)?Y
+
+Current precision is still below the target precision
+Initial Query : per se
+Current Query : per se
+Current Precision@10 : 0.5
+Target Precision@10 : 0.9
+Currently running the model to improve the query...
+
+The query has been updated
+Previous Query : per se
+New Query : per se new restaurant
+
+Parameters:
+Client key  = AIzaSyDhhK6kuFjOnRw4LDTfpwYaH5teRS48xLA
+Engine key  = ad8d80c3f1b726f69
+Query       = per se new restaurant
+Precision   = 0.9
+Google Search Results:
+======================
+
+Result 1
+[
+URL: https://www.thomaskeller.com/perseny
+Title: Per Se | Thomas Keller Restaurant Group
+Summary: Restaurants & Bakeries. Yountville; The French Laundry · Bouchon Bistro · Bouchon Bakery · Ad Hoc + Addendum · La Calenda; New York; Per Se; Las Vegas
+]
+Relevant (Y/N)?Y
+Result 2
+[
+URL: https://en.wikipedia.org/wiki/Per_Se_(restaurant)
+Title: Per Se (restaurant) - Wikipedia
+Summary: Per Se is a New American and French restaurant located on the fourth floor of the Time Warner Center at 10 Columbus Circle in Manhattan in New York City, ...
+]
+Relevant (Y/N)?Y
+Result 3
+[
+URL: https://www.thomaskeller.com/new-york-new-york/per-se/restaurant
+Title: Per Se entrance sign
+Summary: Restaurant Opened in 2004, Per Se is Thomas Keller's acclaimed New York interpretation of The French Laundry in the Deutsche Bank Center at Columbus Circle.
+]
+Relevant (Y/N)?Y
+Result 4
+[
+URL: https://www.exploretock.com/perse
+Title: Per Se - New York, NY | Tock
+Summary: Designed by Adam D. Tihany, Per Se features a serene environment with spectacular views of Central Park and Columbus Circle. The restaurant is Chef Keller's ...
+]
+Relevant (Y/N)?Y
+Result 5
+[
+URL: https://www.thomaskeller.com/new-york-new-york/per-se/todays-menus
+Title: Today's Menus | Thomas Keller Restaurant Group
+Summary: ... tasting menu, as well as a nine-course vegetable tasting menu. No single ingredient is ever repeated throughout the meal. New menu page coming soon.
+]
+Relevant (Y/N)?Y
+Result 6
+[
+URL: https://ny.eater.com/2021/7/21/22583671/per-se-masa-raise-tasting-menu-prices-800
+Title: Per Se and Masa Both Raise Prices of Tasting Menu to $800 - Eater ...
+Summary: Jul 21, 2021 ... New tasting menu options at NYC restaurants Masa and Per Se could easily push the price of dinner for two past $2000.
+]
+Relevant (Y/N)?Y
+Result 7
+[
+URL: https://www.facebook.com/perse/
+Title: Per Se - Home - New City, New York - Menu, prices, restaurant ...
+Summary: The official page of Thomas Keller's Per Se 10 Columbus Cir, Fl 4th, New City, NY 10019.
+]
+Relevant (Y/N)?Y
+Result 8
+[
+URL: https://guide.michelin.com/en/new-york-state/new-york/restaurant/per-se
+Title: Per Se – New York - a MICHELIN Guide Restaurant
+Summary: Per Se · 10 Columbus Circle, New York, 10019, United States · 355 USD • Contemporary, French ...
+]
+Relevant (Y/N)?Y
+Result 9
+[
+URL: https://www.nytimes.com/2016/01/13/dining/pete-wells-per-se-review.html
+Title: At Thomas Keller's Per Se, Slips and Stumbles - The New York Times
+Summary: Jan 12, 2016 ... Dinner or lunch at this grand, hermetic, self-regarding, ungenerous restaurant brings a protracted march of many dishes. In 2004, the year Per ...
+]
+Relevant (Y/N)?Y
+Result 10
+[
+URL: https://www.bostonglobe.com/2022/01/20/lifestyle/eleven-madison-park-per-se-alums-will-open-twelve-portland-over-memorial-day-weekend/
+Title: Eleven Madison Park and Per Se alums will open Twelve in ...
+Summary: Jan 20, 2022 ... Former EMP executive sous chef Colin Wyatt and Per Se general manager Daniel Gorlas will open the New American restaurant, with about 100 seats ...
+]
+Relevant (Y/N)?N
+
+The target precision has been achieved. The algorithm has been terminated [SUCCESS].
+Initial Query : per se
+Final Query : per se new restaurant
+Current Precision@10 : 0.9
+Target Precision@10 : 0.9
+
+
+==============
+query [brin]
+==============
+
+`python -m main AIzaSyDhhK6kuFjOnRw4LDTfpwYaH5teRS48xLA ad8d80c3f1b726f69 0.9 "brin" | tee "brin.txt"`
+
+Parameters:
+Client key  = AIzaSyDhhK6kuFjOnRw4LDTfpwYaH5teRS48xLA
+Engine key  = ad8d80c3f1b726f69
+Query       = brin
+Precision   = 0.9
+Google Search Results:
+======================
+
+Result 1
+[
+URL: https://www.davidbrin.com/
+Title: worlds of David Brin
+Summary: David Brin is best-known for shining light — plausibly and entertainingly — on technology, society, and countless challenges confronting our rambunctious ...
+]
+Relevant (Y/N)?N
+Result 2
+[
+URL: https://en.wikipedia.org/wiki/Sergey_Brin
+Title: Sergey Brin - Wikipedia
+Summary: Sergey Mikhailovich Brin is an American business magnate, computer scientist, and Internet entrepreneur. Together with Larry Page, he co-founded Google.
+]
+Relevant (Y/N)?Y
+Result 3
+[
+URL: https://brinandbrin.com/
+Title: Brin & Brin LLC – Law Firm
+Summary: The litigation, transactional and compliance lawyers at Brin & Brin have proven success in some of the toughest Texas venues. ... We have represented clients in a ...
+]
+Relevant (Y/N)?N
+Result 4
+[
+URL: https://www.forbes.com/profile/sergey-brin/
+Title: Sergey Brin
+Summary: 6 Sergey Brin on the 2021 Forbes 400 - Sergey Brin stepped down as president of Alphabet, parent company of Google, in December 2019 but remains a ...
+]
+Relevant (Y/N)?Y
+Result 5
+[
+URL: https://www.postgresql.org/docs/13/brin-intro.html
+Title: Documentation: 13: 67.1. Introduction - PostgreSQL
+Summary: BRIN stands for Block Range Index. BRIN is designed for handling very large tables in which certain columns have some natural correlation with their ...
+]
+Relevant (Y/N)?N
+Result 6
+[
+URL: https://en.wiktionary.org/wiki/brin
+Title: brin - Wiktionary
+Summary: NounEdit · One of the radiating sticks of a fan. The outermost are larger and longer, and are called panaches. · A single silkworm thread extruded from the gland, ...
+]
+Relevant (Y/N)?N
+Result 7
+[
+URL: https://www.bringlass.com/
+Title: Brin Glass: Commercial Glass Company
+Summary: Brin Glass provides commercial glass services including wholesale distribution and fabrication of glass and architectural aluminum products, glass service ...
+]
+Relevant (Y/N)?N
+Result 8
+[
+URL: https://www.postgresql.org/docs/13/brin.html
+Title: Documentation: 13: Chapter 67. BRIN Indexes - PostgreSQL
+Summary: BRIN Indexes. Prev · Up, Part VII. Internals, Home · Next. Chapter 67. BRIN Indexes. Table of Contents. 67.1. Introduction · 67.1.1. Index Maintenance.
+]
+Relevant (Y/N)?N
+Result 9
+[
+URL: https://www.brinlevinson.com/
+Title: Brin Levinson
+Summary: The Art of Brin Levinson.
+]
+Relevant (Y/N)?N
+Result 10
+[
+URL: https://www2.math.binghamton.edu/p/people/matt/start
+Title: Matthew G. Brin [Binghamton University Department of Mathematical ...
+Summary: Matthew G. Brin. Professor Emeritus Ph.D., 1977, University of Wisconsin-Madison At Binghamton since 1978. Areas of Interest: Geometric topology, ...
+]
+Relevant (Y/N)?N
+
+Current precision is still below the target precision
+Initial Query : brin
+Current Query : brin
+Current Precision@10 : 0.2
+Target Precision@10 : 0.9
+Currently running the model to improve the query...
+
+The query has been updated
+Previous Query : brin
+New Query : brin sergey google
+
+Parameters:
+Client key  = AIzaSyDhhK6kuFjOnRw4LDTfpwYaH5teRS48xLA
+Engine key  = ad8d80c3f1b726f69
+Query       = brin sergey google
+Precision   = 0.9
+Google Search Results:
+======================
+
+Result 1
+[
+URL: https://en.wikipedia.org/wiki/Sergey_Brin
+Title: Sergey Brin - Wikipedia
+Summary: Sergey Mikhailovich Brin is an American business magnate, computer scientist, and Internet entrepreneur. Together with Larry Page, he co-founded Google.
+]
+Relevant (Y/N)?Y
+Result 2
+[
+URL: https://www.theverge.com/2019/12/4/20994361/google-alphabet-larry-page-sergey-brin-sundar-pichai-co-founders-ceo-timeline
+Title: Google co-founders Larry Page and Sergey Brin: a timeline of their ...
+Summary: Dec 4, 2019 ... Larry Page and Sergey Brin founded Google in 1996 on the back of an algorithm, turned it into one of the most valuable companies in the ...
+]
+Relevant (Y/N)?Y
+Result 3
+[
+URL: https://www.forbes.com/profile/sergey-brin/
+Title: Sergey Brin
+Summary: REAL TIME NET WORTH · Sergey Brin stepped down as president of Alphabet, parent company of Google, in December 2019 but remains a controller shareholder and a ...
+]
+Relevant (Y/N)?Y
+Result 4
+[
+URL: https://www.biography.com/business-figure/sergey-brin
+Title: Sergey Brin - Education, Google & Wife - Biography
+Summary: Aug 11, 2015 ... Sergey Brin is a computer scientist who created Google with Larry Page, the two becoming billionaires as Google developed into the world's ...
+]
+Relevant (Y/N)?Y
+Result 5
+[
+URL: https://www.britannica.com/biography/Sergey-Brin
+Title: Sergey Brin | Biography, Google, & Facts | Britannica
+Summary: Sergey Brin, American computer scientist and entrepreneur who created, along with Larry Page, the online search engine Google, one of the most successful ...
+]
+Relevant (Y/N)?Y
+Result 6
+[
+URL: https://www.theguardian.com/science/2013/aug/05/google-sergey-brin-synthetic-beef-hamburger
+Title: Google's Sergey Brin bankrolled world's first synthetic beef ...
+Summary: Aug 5, 2013 ... The billionaire co-founder of Google, Sergey Brin, said he invested €250000 in the technology for animal welfare reasons.
+]
+Relevant (Y/N)?Y
+Result 7
+[
+URL: https://www.vanityfair.com/style/2014/04/sergey-brin-amanda-rosenberg-affair
+Title: Sergey Brin and Amanda Rosenberg: Inside the Google Co ...
+Summary: Mar 12, 2014 ... The story behind Google co-founder Sergey Brin's liaison with Google Glass marketing manager Amanda Rosenberg—and his split from his wife, ...
+]
+Relevant (Y/N)?Y
+Result 8
+[
+URL: https://www.nbcnews.com/technolog/googles-sergey-brin-explains-why-he-paid-330-000-lab-6c10853442
+Title: Google's Sergey Brin explains why he paid $330,000 for lab burger
+Summary: Aug 5, 2013 ... Google's Sergey Brin explains why he paid $330,000 for lab burger. When scientists brought out a hamburger created in a laboratory for its ...
+]
+Relevant (Y/N)?Y
+Result 9
+[
+URL: https://www.businessinsider.com/sergey-brin-google-alphabet-life-photos-2016-12
+Title: Sergey Brin: Life of Google Cofounder, Former Alphabet President
+Summary: Dec 3, 2019 ... Google cofounder Sergey Brin is stepping down as Alphabet's president. Take a look inside his eccentric and wildly successful life.
+]
+Relevant (Y/N)?Y
+Result 10
+[
+URL: https://www.wired.com/story/google-cofounder-sergey-brin-warns-of-ais-dark-side/
+Title: Google Cofounder Sergey Brin Warns of AI's Dark Side | WIRED
+Summary: Apr 27, 2018 ... Google Cofounder Sergey Brin Warns of AI's Dark Side ... Google cofounder calls advances in artificial intelligence "the most significant ...
+]
+Relevant (Y/N)?Y
+
+The target precision has been achieved. The algorithm has been terminated [SUCCESS].
+Initial Query : brin
+Final Query : brin sergey google
+Current Precision@10 : 1.0
+Target Precision@10 : 0.9
+
+
+==============
+query [cases]
+==============
+
+`python -m main AIzaSyDhhK6kuFjOnRw4LDTfpwYaH5teRS48xLA ad8d80c3f1b726f69 0.9 "cases" | tee "cases.txt"`
+
+Parameters:
+Client key  = AIzaSyDhhK6kuFjOnRw4LDTfpwYaH5teRS48xLA
+Engine key  = ad8d80c3f1b726f69
+Query       = cases
+Precision   = 0.9
+Google Search Results:
+======================
+
+Result 1
+[
+URL: https://www.cases.org/
+Title: CASES: Home
+Summary: From court and program offices in the Bronx, Brooklyn, and Manhattan, CASES provides community-based alternatives to jail and prison. These programs address ...
+]
+Relevant (Y/N)?N
+Result 2
+[
+URL: https://covid.cdc.gov/covid-data-tracker/
+Title: CDC COVID Data Tracker
+Summary: Your Community · County View · County View Map Thumbnail ; Case, Death, & Laboratory Testing Trends by Location and Demographics · Trends in Cases and Deaths by ...
+]
+Relevant (Y/N)?Y
+Result 3
+[
+URL: https://www.worldometers.info/coronavirus/
+Title: COVID Live - Coronavirus Statistics - Worldometer
+Summary: Live statistics and coronavirus news tracking the number of confirmed cases, recovered patients, tests, and death toll due to the COVID-19 coronavirus from ...
+]
+Relevant (Y/N)?Y
+Result 4
+[
+URL: https://www.dhs.wisconsin.gov/covid-19/cases.htm
+Title: COVID-19: Wisconsin Cases | Wisconsin Department of Health ...
+Summary: Back to a list of charts on this page. Percent of COVID-19 cases living in group housing ...
+]
+Relevant (Y/N)?Y
+Result 5
+[
+URL: https://www.nytimes.com/interactive/2021/us/covid-cases.html
+Title: Covid in the U.S.: Latest Maps, Case and Death Counts - The New ...
+Summary: Track Covid-19 in your area, and get the latest state and county data on cases, deaths, hospitalizations, tests and vaccinations.
+]
+Relevant (Y/N)?Y
+Result 6
+[
+URL: https://www.verizon.com/products/phone-cases/
+Title: Phone Cases for your iPhone, Samsung, and more | Verizon
+Summary: Shop Verizon for an extensive selection of phone cases. Protect your phone from accidents. Featuring products from OtterBox, Case-Mate, Kate Spade & more.
+]
+Relevant (Y/N)?N
+Result 7
+[
+URL: https://www.icj-cij.org/en/cases
+Title: Cases | International Court of Justice
+Summary: Cases. The Court has a twofold role: to settle, in accordance with international law, legal disputes submitted to it by States (contentious cases) and to ...
+]
+Relevant (Y/N)?N
+Result 8
+[
+URL: https://www.vdh.virginia.gov/coronavirus/see-the-numbers/covid-19-in-virginia/covid-19-in-virginia-cases/
+Title: Cases - Coronavirus
+Summary: Starting on February 1, 2022, VDH is using 2020 National Center for Health Statistics (NCHS) population estimates for COVID-19 events (cases, ...
+]
+Relevant (Y/N)?Y
+Result 9
+[
+URL: https://ourworldindata.org/covid-cases
+Title: Coronavirus (COVID-19) Cases - Our World in Data
+Summary: Country-by-country data on confirmed cases. This page has a large number of charts on the pandemic. In the box below you can select any country you are ...
+]
+Relevant (Y/N)?Y
+Result 10
+[
+URL: https://www.oyez.org/cases
+Title: 2021-2022 Term | Oyez
+Summary: US Supreme Court cases from the 2021-2022 term. ... A case in which the Court will decide whether federal courts have subject-matter jurisdiction to confirm ...
+]
+Relevant (Y/N)?N
+
+Current precision is still below the target precision
+Initial Query : cases
+Current Query : cases
+Current Precision@10 : 0.6
+Target Precision@10 : 0.9
+Currently running the model to improve the query...
+
+The query has been updated
+Previous Query : cases
+New Query : cases wisconsin coronavirus
+
+Parameters:
+Client key  = AIzaSyDhhK6kuFjOnRw4LDTfpwYaH5teRS48xLA
+Engine key  = ad8d80c3f1b726f69
+Query       = cases wisconsin coronavirus
+Precision   = 0.9
+Google Search Results:
+======================
+
+Result 1
+[
+URL: https://www.dhs.wisconsin.gov/covid-19/cases.htm
+Title: COVID-19: Wisconsin Cases | Wisconsin Department of Health ...
+Summary: Call 211 or 877-947-2211 to get referrals for thousands of services across Wisconsin. For COVID-19 questions, text COVID to 211-211. Language assistance is ...
+]
+Relevant (Y/N)?Y
+Result 2
+[
+URL: https://www.nytimes.com/interactive/2021/us/wisconsin-covid-cases.html
+Title: Wisconsin Coronavirus Map and Case Count - The New York Times
+Summary: See the latest charts and maps of coronavirus cases, deaths, hospitalizations and vaccinations in Wisconsin.
+]
+Relevant (Y/N)?Y
+Result 3
+[
+URL: https://www.dhs.wisconsin.gov/covid-19/data.htm
+Title: COVID-19: Wisconsin Summary Data | Wisconsin Department of ...
+Summary: Jump to specific COVID-19 chart on this page: Wisconsin summary statistics; 7-day percent positive by test, total tests by day; Cases and deaths maps by ...
+]
+Relevant (Y/N)?Y
+Result 4
+[
+URL: https://www.mayoclinic.org/coronavirus-covid-19/map/wisconsin
+Title: Wisconsin COVID-19 Map: Tracking the Trends
+Summary: Results 40 - 60 of 60 ... Check our interactive coronavirus map for the latest Wisconsin ... Mayo Clinic is tracking COVID-19 cases and forecasting hot spots.
+]
+Relevant (Y/N)?Y
+Result 5
+[
+URL: https://www.dhs.wisconsin.gov/covid-19/county.htm
+Title: COVID-19: County Data | Wisconsin Department of Health Services
+Summary: COVID-19: Data Pages Activity Level by Region and County Cases Deaths Facility-Wide Investigations Frequently Asked Questions Hospitals.
+]
+Relevant (Y/N)?Y
+Result 6
+[
+URL: https://www.worldometers.info/coronavirus/usa/wisconsin/
+Title: Wisconsin COVID - Coronavirus Statistics - Worldometer
+Summary: Wisconsin COVID-19 Coronavirus update by county with statistics and graphs: total and new cases, deaths per day, current active cases, recoveries, ...
+]
+Relevant (Y/N)?Y
+Result 7
+[
+URL: https://www.dhs.wisconsin.gov/outbreaks/index.htm
+Title: Outbreaks in Wisconsin | Wisconsin Department of Health Services
+Summary: Outbreaks and Investigations · As of January 11, 2022, the Centers for Disease Control and Prevention (CDC) reports 44 people in 25 states have been infected.
+]
+Relevant (Y/N)?Y
+Result 8
+[
+URL: https://projects.jsonline.com/topics/coronavirus/tracking/covid-19-cases-testing-and-deaths-in-wisconsin.html
+Title: Wisconsin COVID-19 cases, vaccine data: Latest coronavirus number
+Summary: The Wisconsin Department of Health Services confirmed 443 new confirmed cases of COVID-19 and 0 new confirmed deaths on February 19. That brings the state's ...
+]
+Relevant (Y/N)?Y
+Result 9
+[
+URL: https://usafacts.org/visualizations/coronavirus-covid-19-spread-map/state/wisconsin
+Title: Wisconsin coronavirus cases and deaths | USAFacts
+Summary: Get the answers here, with data on hotspots and infection rates. This map tracks the history of coronavirus cases in Wisconsin, both recent and all-time.
+]
+Relevant (Y/N)?Y
+Result 10
+[
+URL: https://www.co.sauk.wi.us/publichealth/coronavirus
+Title: Coronavirus | Sauk County Wisconsin Official Website
+Summary: 12/4/21: Press Release from WI DHS: First Case of the Omicron Variant Identified in Wisconsin. 11/19/21: Sauk County COVID-19 Cases and Hospitalizations ...
+]
+Relevant (Y/N)?Y
+
+The target precision has been achieved. The algorithm has been terminated [SUCCESS].
+Initial Query : cases
+Final Query : cases wisconsin coronavirus
+Current Precision@10 : 1.0
+Target Precision@10 : 0.9
